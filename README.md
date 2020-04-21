@@ -1,2 +1,0 @@
-# mvn-artifacts
-maven artifacts
